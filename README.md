@@ -1,3 +1,3 @@
 ### Hi there! 👋
 
-[Contact](mailto:hello.jameshjay@gmail.com)
+<a href="mailto:hello.jameshjay@gmail.com">Contact</a>
